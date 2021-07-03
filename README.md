@@ -30,7 +30,7 @@ Alternatively, you could write your question(s) as issues (with more freedom in 
   - Submit a new issue regarding your problem.
   - Email me at <mzarei137@gmail.com>.
 
-I would appreciate any other form of contribution you can provide.
+I would highly appreciate any other form of contribution.
 
 ## Questions
 #### <182>. <How old are you?>
