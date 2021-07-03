@@ -13,7 +13,7 @@ If you've taken an interview and would like to add questions here, please append
 - **Interviewer**: company
 - **Answer**: This is the answer.
 
-[Back to top](##-questions)
+[Back to top](#questions)
 
 #### 2. asdfasdfasdf
 
