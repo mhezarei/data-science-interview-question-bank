@@ -1,5 +1,5 @@
 # data-science-interview-question-bank
-This repository contains questions asked in data science interviews. Most of them are asked in interviews of Iran's big companies, but other famous questions found on the internet are also included.
+This repository contains technical questions asked in data science interviews. Most of them are asked in interviews of Iran's big companies, but other famous questions found on the internet are also included.
 
 After you find yourself ready to take an interview, reviewing these questions could be a great help. Since most of these questions are gathered from people's experience, it's recommended to answer them as if they were asked in the interview, e.g., answering with loud sound (not mumbling), giving the best possible answer, etc.
 
@@ -14,7 +14,7 @@ If you've taken an interview and would like to add questions here, please append
 #### <182>. <How old are you?>
 - **Added by**: (Optional) <John Abbasi> (you could also link you github account)
 - **Interviewee**: (Optional) <John Abbasi> (you could also link you github account)
-- **Interviewer**: (Optional) <Tesla>
+- **Interviewer Company**: (Optional) <Tesla>
 - **Given Answer**: (Optional) <Since I was born, the Earth has revoluted 29 times around the Sun.>
 
 [Back to top](#questions)
@@ -32,10 +32,10 @@ Alternatively, you could write your question(s) as issues (with more freedom in 
 
 ## Questions
 #### <182>. <How old are you?>
-- **Added by**: (Optional) <John Abbasi> (you could also link you github account)
-- **Interviewee**: (Optional) <John Abbasi> (you could also link you github account)
-- **Interviewer**: (Optional) <Tesla>
-- **Given Answer**: (Optional) <Since I was born, the Earth has revoluted 29 times around the Sun.>
+- **Added by**: John Abbasi
+- **Interviewee**: John Abbasi
+- **Interviewer Company**: Tesla
+- **Given Answer**: Since I was born, the Earth has revoluted 29 times around the Sun.
 
 [Back to top](#questions)
 
