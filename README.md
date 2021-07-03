@@ -8,7 +8,7 @@ After you find yourself ready to take an interview, reviewing these questions co
 ## How to contribute?
 
 ### Adding a question:
-If you've taken an interview and would like to add questions here, please append your question to the end of the list using the following format with the correct question number and **beware that** your kind support is enormously appreciated :).
+If you've taken an interview and would like to add questions here, please append your question to the end of the list using the following format with the correct question number (last question's number + 1) and **beware that** your kind support is enormously appreciated :).
 
 ```
 #### <182>. <How old are you?>
