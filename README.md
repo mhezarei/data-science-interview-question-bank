@@ -68,7 +68,7 @@ Still normal but with a skewness (heavy tail) on the right side.
 
 [⬆ Back to top](#questions)
 
-#### Explain the following concepts. Matrix rank, invertible matrix, matrix determinant.
+#### Explain the following concepts: Matrix rank, invertible matrix, matrix determinant.
 
 Basic linear algebra questions. I recommend watching [Gilbert Strang's 2005 linear algebra course (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D).
 
