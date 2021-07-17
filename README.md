@@ -92,6 +92,70 @@ Accuracy metric performs poorly on an imbalanced dataset, and since we don't kno
 
 [⬆ Back to top](#questions)
 
+#### We currently have a dataset which suffers from heavy label imbalance. Can you name some methods to fix it?
+
+1. Giving different weight to labels based on its frequency.
+2. Generating data belonging to the infrequent label.
+3. Down-sampling the abundant label.
+4. And more...
+
+[⬆ Back to top](#questions)
+
+#### Will adding more data around the mean with a low std change the data distribution?
+
+The mean wil roughly stay the same but the overall std might change depending on the std of the added data. See [this link](https://stats.stackexchange.com/questions/173693/how-does-adding-a-new-value-to-a-set-of-data-affect-the-standard-deviation) for more info about the new overall std.
+
+[⬆ Back to top](#questions)
+
+#### Imagine we have a binary classifier which is going to classify a person as either an assassin or a normal person ("True" class means assassin and "False" class means normal). Which classification threshold is acceptable?
+
+Depending on the task, we should consider different threshold for different metrics. In this case, we definitely do not want any assassin to be classified as a normal person but mistaking a few individuals as assassins is alright. So our "False Negative" values should be the lowest possible (zero ideally since we don't want anyone to be killed!).
+
+[⬆ Back to top](#questions)
+
+#### How does changing the classification threshold affect precision and recall?
+
+In the assassin classification case, increasing the threshold will result in a bigger precision since we remove instances from the "False Positive" category.
+
+[⬆ Back to top](#questions)
+
+#### What is the confusion matrix? What are the ROC curve and ROC AUC? What does each point on the ROC curve represent?
+
+You can answers online since these are basic questions.
+
+[⬆ Back to top](#questions)
+
+#### What is the model variance score? What is regularization, and what is it used for? Which one of the L1 and L2 regularizations is used in neural networks?
+
+In general, regularization is a set of techniques used to overcome overfitting in different models. Both of them are used in NNs, but L2 regularization is more common.
+
+[⬆ Back to top](#questions)
+
+#### What is PCA? What does each column in PCA results represent? Could we say "Column 1 of PCA represents the Age"?
+
+[PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). Since PCA tries to create new features from the composition of some features, the statement won't be correct in general.
+
+[⬆ Back to top](#questions)
+
+#### What happens when we make the cosine distance our distance metric (and not the euclidian distance) in clustering?
+
+
+
+[⬆ Back to top](#questions)
+
+#### How could we choose the number of clusters in k-means clustering?
+
+1. Plot the inertia score vs. the number of clusters, and choose the "elbow" number.
+2. (More precise but more computationally expensive) For each number of clustering, calculate the "silhouette score" (the mean "silhouette coefficient" over all instances), and choose the number that maximizes the score.
+
+[⬆ Back to top](#questions)
+
+#### Let's say we have chosen a specific number of clusters and we want to see how good is the model. How could we evaluate the clustering based on the selected number of clusters?
+
+In general, we want the distance between instances in a cluster to be the lowest and the distance between points clusters to be the highest.
+
+[⬆ Back to top](#questions)
+
 
 ## Future Improvements
 
